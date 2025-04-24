@@ -15,5 +15,7 @@ The issue of student dropout in higher education represents a critical challenge
 Keywords: drop out, adaptation, validity, reliability 
 
  ### Contents
- - Data
- - Questionnaire
+ - Raw Data(Students2023AllData.xlsx)
+ - Questionnaire (Greek version of the applied questionnaire, BAT-12, APrISE-15, UWES-9, HADS, IAT and other questions)
+ - survey_logic_file-greek.pdf (Survey logic file, as exported by LimeSurvey - greek only)
+ - APriSE tool (Greek and English version)
