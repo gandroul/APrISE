@@ -23,8 +23,7 @@ Keywords: drop out, adaptation, validity, reliability
 ### R packages
 For the statistical analysis of the data, the R software was utilized [48], employing the dplyr, forcats, ggplot2, gridExtra, Hmisc, kableExtra, knitr, lattice, lavaan, mirt, psych, readxl, semPlot, R-tibble libraries. 
 
-Wickham, H., François, R., Henry, L., Müller, K. & Vaughan, D 2023, ΄dplyr: A Grammar of Data Manipulation΄, R package version 1.1.4. ,< https://github.com/tidyverse/dplyr >, <https://dplyr.tidyverse.org>.
-
+- Wickham, H., François, R., Henry, L., Müller, K. & Vaughan, D 2023, ΄dplyr: A Grammar of Data Manipulation΄, R package version 1.1.4. ,< https://github.com/tidyverse/dplyr >, <https://dplyr.tidyverse.org>.
 - Wickham, H 2023, ΄ forcats: Tools for Working with Categorical Variables (Factors). R package version 1.0.0΄,<https://github.com/tidyverse/forcats> , <https://forcats.tidyverse.org/>.
 - Wickham H 2016, ggplot2: Elegant graphics for data analysis, Springer-Verlag ,New York. 
 - Wickham H. et al 2024, ΄ggplot2: Create elegant data visualisations using the grammar of graphics΄,< https://ggplot2.tidyverse.org>.
